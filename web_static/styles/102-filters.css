@@ -1,4 +1,5 @@
-y: none;
+.filters {
+  display: none;
 }
 @media only screen and (max-width: 600px) {
 }
